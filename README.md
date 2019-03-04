@@ -8,6 +8,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Requirements](#requirements)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
@@ -21,6 +22,11 @@
 - **Portability**: _LibVMI_ aims to provide a standard VMI API accross hypervisors
   on Windows/Linux/MacOS
 
+## Requirements
+
+- `cargo`
+- `clang` >= `3.9`
+- `Xen` headers
 
 ## References
 
